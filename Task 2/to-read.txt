@@ -1,0 +1,9 @@
+Task Summary
+
+Corrected data types to ensure accuracy
+
+Identified key trends within the dataset
+
+Analyzed data using pivot tables
+
+Created visualizations for better insights

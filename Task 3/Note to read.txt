@@ -1,0 +1,9 @@
+Superstore Sales Analysis
+
+Built charts and graphs to present monthly sales
+
+Analyzed sales performance across different cities
+
+Examined sales by product category
+
+Added multiple visual breakdowns for deeper insights
