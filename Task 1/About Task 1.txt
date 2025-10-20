@@ -1,0 +1,2 @@
+This is Data analyst Task
+1. I used a data scarping to scarp data from indeed site and this is the result and it works quite well.
